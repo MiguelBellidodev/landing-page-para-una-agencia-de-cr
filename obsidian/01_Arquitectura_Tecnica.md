@@ -1,5 +1,5 @@
 # Arquitectura Técnica: Landing page para una agencia de Cr…
 
-- Stack: React 19 + TypeScript + Vite + Tailwind CSS
+- Frontend: React 19 + TypeScript
 - Backend: OpenAPI REST
-- Infraestructura: Vercel
+- Deploy: Vercel
